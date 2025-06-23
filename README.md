@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi, I’m Ishaan 👋
+
+- 👨‍💻 First-year B.Tech Computer Science student at LPU  
+- 🛠️ Learning Python, Web Development (HTML/CSS), and DSA  
+- 📘 Building beginner-friendly projects and growing step by step  
+- 🌱 Focused on consistency, problem-solving, and personal growth  
+
+🚀 Stay tuned — documenting my journey as I learn and build!
 
 <!--
 **Ishaan-CSE/Ishaan-CSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
